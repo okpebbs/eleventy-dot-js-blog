@@ -24,10 +24,10 @@ module.exports = {
   en: {
     // English as used in the Unite States
     locale: 'en-US',
-    title: '🍦.11ty.js',
+    title: '😳okpebbs',
     // The subtitle, slogan, or catchphrase for your site,
     // used in _includes/shortcodes/site-header
-    tagline: 'The vanilla JavaScript 🕚 Eleventy starter project of your dreams 💭',
+    tagline: 'World's Okayest Photographer 📷 *amongst other things.* 💭',
     // Puncuation between a title and subtitle,
     // used in _includes/shortcodes/title-tag
     separator: ' 🍦 ',
